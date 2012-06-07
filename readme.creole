@@ -12,17 +12,11 @@ Please see [mongoid-rspec project](https://github.com/evansagge/mongoid-rspec) p
 
 The "Packages" packages directory is located at:
 
-* OS X::
+* OS X: ~/Library/Application Support/Sublime Text 2/Packages/
 
-    ~/Library/Application Support/Sublime Text 2/Packages/
+* Linux: ~/.Sublime Text 2/Packages/
 
-* Linux::
-
-    ~/.Sublime Text 2/Packages/
-
-* Windows::
-
-    %APPDATA%/Sublime Text 2/Packages/
+* Windows: %APPDATA%/Sublime Text 2/Packages/
 
 == License
 
