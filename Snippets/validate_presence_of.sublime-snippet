@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+validate_presence_of(${1::property})
+]]></content>
+  <tabTrigger>vpo</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+</snippet>

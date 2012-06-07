@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+have_many(${1::model}).with_dependent(${2::dependent})
+]]></content>
+  <tabTrigger>hmwd</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+</snippet>

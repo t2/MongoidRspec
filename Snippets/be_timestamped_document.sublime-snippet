@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+be_timestamped_document
+]]></content>
+  <tabTrigger>bt</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+</snippet>

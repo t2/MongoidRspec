@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+embed_one ${1::model}
+]]></content>
+  <tabTrigger>eo</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+</snippet>

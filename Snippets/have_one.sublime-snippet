@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+have_one ${1::model}
+]]></content>
+  <tabTrigger>ho</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+</snippet>

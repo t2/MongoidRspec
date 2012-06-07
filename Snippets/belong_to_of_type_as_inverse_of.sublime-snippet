@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+belong_to(${1::parent}).of_type(${2:type}).as_inverse_of(${3::model})
+]]></content>
+  <tabTrigger>btoa</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+</snippet>

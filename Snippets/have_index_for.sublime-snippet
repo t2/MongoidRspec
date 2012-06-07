@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+have_index_for ${1::field}
+]]></content>
+  <tabTrigger>hi</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+</snippet>

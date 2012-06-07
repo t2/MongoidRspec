@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+be_embedded_in ${1::model}
+]]></content>
+  <tabTrigger>be</tabTrigger> 
+  <scope>source.ruby.rspec</scope>
+</snippet>

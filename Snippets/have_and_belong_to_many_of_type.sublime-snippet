@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+have_and_belong_to_many(${1::children}).of_type(${2:type})
+]]></content>
+  <tabTrigger>habt</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+</snippet>

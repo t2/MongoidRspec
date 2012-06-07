@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+validate_uniqueness_of(${1::property})
+]]></content>
+  <tabTrigger>vuo</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+validate_format_of(${1::property}).to_allow(${$2:good value}).not_to_allow(${3:bad value})
+]]></content>
+  <tabTrigger>vfo</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+</snippet>
