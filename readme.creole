@@ -2,13 +2,15 @@
 
 A collection of [[http://sublimetext.com/2|Sublime Text 2]] snippets for working with with the mongoid-rspec gem.
 
-Please see [mongoid-rspec project](https://github.com/evansagge/mongoid-rspec) page for more information and documentation.
+Please see [[https://github.com/evansagge/mongoid-rspec|mongoid-rspec project]] page for more information and documentation.
 
 = Installing
 
 **With Git:** Clone the repository in your Sublime Text 2 Packages directory, located somewhere in user's "Home" directory::
 
-    git clone git://github.com/t2/MongoidRspec.git
+{{{
+  git clone git://github.com/t2/MongoidRspec.git
+}}}
 
 The "Packages" packages directory is located at:
 
